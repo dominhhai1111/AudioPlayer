@@ -9,11 +9,58 @@
 /* Begin PBXBuildFile section */
 		E10C32501C2B9868001B9864 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E10C324F1C2B9868001B9864 /* main.m */; };
 		E10C32531C2B9868001B9864 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E10C32521C2B9868001B9864 /* AppDelegate.m */; };
-		E10C32561C2B9868001B9864 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E10C32551C2B9868001B9864 /* ViewController.m */; };
 		E10C32591C2B9868001B9864 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E10C32571C2B9868001B9864 /* Main.storyboard */; };
 		E10C325B1C2B9868001B9864 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E10C325A1C2B9868001B9864 /* Images.xcassets */; };
 		E10C325E1C2B9868001B9864 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E10C325C1C2B9868001B9864 /* LaunchScreen.xib */; };
 		E10C326A1C2B9869001B9864 /* ModelViewController4Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = E10C32691C2B9869001B9864 /* ModelViewController4Tests.m */; };
+		E10C32761C2B98D3001B9864 /* VSModel.m in Sources */ = {isa = PBXBuildFile; fileRef = E10C32751C2B98D3001B9864 /* VSModel.m */; };
+		E10C32791C2B9910001B9864 /* DataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E10C32781C2B9910001B9864 /* DataManager.m */; };
+		E10C327B1C2B9962001B9864 /* Music.plist in Resources */ = {isa = PBXBuildFile; fileRef = E10C327A1C2B9962001B9864 /* Music.plist */; };
+		E10C32831C2B9AB2001B9864 /* What Do You Mean.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E10C327D1C2B9AB2001B9864 /* What Do You Mean.jpg */; };
+		E10C32841C2B9AB2001B9864 /* Cheerleader.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E10C327E1C2B9AB2001B9864 /* Cheerleader.jpg */; };
+		E10C32851C2B9AB2001B9864 /* Morning Commute.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E10C327F1C2B9AB2001B9864 /* Morning Commute.jpg */; };
+		E10C32861C2B9AB2001B9864 /* Songs for Friendship.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E10C32801C2B9AB2001B9864 /* Songs for Friendship.jpg */; };
+		E10C32871C2B9AB2001B9864 /* Fight Songs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E10C32811C2B9AB2001B9864 /* Fight Songs.jpg */; };
+		E10C32881C2B9AB2001B9864 /* images-25.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E10C32821C2B9AB2001B9864 /* images-25.jpeg */; };
+		E1C06D8C1C30D55200542067 /* Music.m in Sources */ = {isa = PBXBuildFile; fileRef = E1C06D8B1C30D55200542067 /* Music.m */; };
+		E1C06D8F1C30D86200542067 /* Song.m in Sources */ = {isa = PBXBuildFile; fileRef = E1C06D8E1C30D86200542067 /* Song.m */; };
+		E1C06DAB1C30E0E800542067 /* One Direction - History .mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D901C30E0E800542067 /* One Direction - History .mp3 */; };
+		E1C06DAC1C30E0E800542067 /* One Direction - History (Lyrics)-3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D911C30E0E800542067 /* One Direction - History (Lyrics)-3.mp3 */; };
+		E1C06DAD1C30E0E800542067 /* One Direction - History (Lyrics).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D921C30E0E800542067 /* One Direction - History (Lyrics).mp3 */; };
+		E1C06DAE1C30E0E800542067 /* OneDirection1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D931C30E0E800542067 /* OneDirection1.jpeg */; };
+		E1C06DAF1C30E0E800542067 /* OneDirection.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D941C30E0E800542067 /* OneDirection.jpeg */; };
+		E1C06DB01C30E0E800542067 /* OneDirection.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D951C30E0E800542067 /* OneDirection.jpg */; };
+		E1C06DB11C30E0E800542067 /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D961C30E0E800542067 /* pause.png */; };
+		E1C06DB21C30E0E800542067 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D971C30E0E800542067 /* play.png */; };
+		E1C06DB31C30E0E800542067 /* 1448357305_ic_play_circle_fill_48px.png in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D981C30E0E800542067 /* 1448357305_ic_play_circle_fill_48px.png */; };
+		E1C06DB41C30E0E800542067 /* BichPhuong.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D991C30E0E800542067 /* BichPhuong.jpg */; };
+		E1C06DB51C30E0E800542067 /* ThuMinh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D9A1C30E0E800542067 /* ThuMinh.jpg */; };
+		E1C06DB61C30E0E800542067 /* timerun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D9B1C30E0E800542067 /* timerun.jpg */; };
+		E1C06DB71C30E0E800542067 /* thumb-value-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D9C1C30E0E800542067 /* thumb-value-bg.png */; };
+		E1C06DB81C30E0E800542067 /* bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D9D1C30E0E800542067 /* bg.jpg */; };
+		E1C06DB91C30E0E800542067 /* runtrack.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D9E1C30E0E800542067 /* runtrack.jpg */; };
+		E1C06DBA1C30E0E800542067 /* mintrack.png in Resources */ = {isa = PBXBuildFile; fileRef = E1C06D9F1C30E0E800542067 /* mintrack.png */; };
+		E1C06DBB1C30E0E800542067 /* maxtrack2.png in Resources */ = {isa = PBXBuildFile; fileRef = E1C06DA01C30E0E800542067 /* maxtrack2.png */; };
+		E1C06DBC1C30E0E800542067 /* maxtrack.png in Resources */ = {isa = PBXBuildFile; fileRef = E1C06DA11C30E0E800542067 /* maxtrack.png */; };
+		E1C06DBD1C30E0E800542067 /* thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = E1C06DA21C30E0E800542067 /* thumb.png */; };
+		E1C06DBE1C30E0E800542067 /* track.png in Resources */ = {isa = PBXBuildFile; fileRef = E1C06DA31C30E0E800542067 /* track.png */; };
+		E1C06DBF1C30E0E800542067 /* thumbSlider.png in Resources */ = {isa = PBXBuildFile; fileRef = E1C06DA41C30E0E800542067 /* thumbSlider.png */; };
+		E1C06DC01C30E0E800542067 /* backGroundNiceLayer.png in Resources */ = {isa = PBXBuildFile; fileRef = E1C06DA51C30E0E800542067 /* backGroundNiceLayer.png */; };
+		E1C06DC11C30E0E800542067 /* niceSliderMember2.png in Resources */ = {isa = PBXBuildFile; fileRef = E1C06DA61C30E0E800542067 /* niceSliderMember2.png */; };
+		E1C06DC21C30E0E800542067 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1C06DA71C30E0E800542067 /* ViewController.m */; };
+		E1C06DC31C30E0E800542067 /* UIColor+Extend.m in Sources */ = {isa = PBXBuildFile; fileRef = E1C06DAA1C30E0E800542067 /* UIColor+Extend.m */; };
+		E1C06DC51C30E1F600542067 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1C06DC41C30E1F600542067 /* AVFoundation.framework */; };
+		E1C06DC81C30E47700542067 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = E1C06DC71C30E47700542067 /* back.png */; };
+		E1F722331C2E33A200045065 /* Album.m in Sources */ = {isa = PBXBuildFile; fileRef = E1F722321C2E33A200045065 /* Album.m */; };
+		E1FAD9711C3CC0C800312D05 /* DNCE - Cake By The Ocean (Lyric).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E1FAD9701C3CC0C800312D05 /* DNCE - Cake By The Ocean (Lyric).mp3 */; };
+		E1FAD9731C3CC18200312D05 /* YouTube - Fiona Fung- Proud of you (With lyrics).flv.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E1FAD9721C3CC18200312D05 /* YouTube - Fiona Fung- Proud of you (With lyrics).flv.mp3 */; };
+		E1FAD9751C3CC24A00312D05 /* Justin Bieber - What Do You Mean? (Lyric Video).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E1FAD9741C3CC24A00312D05 /* Justin Bieber - What Do You Mean? (Lyric Video).mp3 */; };
+		E1FAD9781C3CC38500312D05 /* One Direction - Drag Me Down (pictures + Lyrics).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E1FAD9761C3CC38500312D05 /* One Direction - Drag Me Down (pictures + Lyrics).mp3 */; };
+		E1FAD9791C3CC38500312D05 /* OMI - Cheerleader LYRICS (Felix Jaehn Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E1FAD9771C3CC38500312D05 /* OMI - Cheerleader LYRICS (Felix Jaehn Edit).mp3 */; };
+		E1FB0A7F1C33794F0015C07D /* MusicAddTableView.plist in Resources */ = {isa = PBXBuildFile; fileRef = E1FB0A7E1C33794F0015C07D /* MusicAddTableView.plist */; };
+		E1FB0A821C337E220015C07D /* TopicData.m in Sources */ = {isa = PBXBuildFile; fileRef = E1FB0A811C337E220015C07D /* TopicData.m */; };
+		E1FB0A851C337E390015C07D /* Topic.m in Sources */ = {isa = PBXBuildFile; fileRef = E1FB0A841C337E390015C07D /* Topic.m */; };
+		E1FB0A881C337E4F0015C07D /* Songs.m in Sources */ = {isa = PBXBuildFile; fileRef = E1FB0A871C337E4F0015C07D /* Songs.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,14 +79,70 @@
 		E10C324F1C2B9868001B9864 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E10C32511C2B9868001B9864 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E10C32521C2B9868001B9864 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		E10C32541C2B9868001B9864 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		E10C32551C2B9868001B9864 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		E10C32581C2B9868001B9864 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E10C325A1C2B9868001B9864 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		E10C325D1C2B9868001B9864 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		E10C32631C2B9869001B9864 /* ModelViewController4Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ModelViewController4Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E10C32681C2B9869001B9864 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E10C32691C2B9869001B9864 /* ModelViewController4Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ModelViewController4Tests.m; sourceTree = "<group>"; };
+		E10C32741C2B98D3001B9864 /* VSModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VSModel.h; sourceTree = "<group>"; };
+		E10C32751C2B98D3001B9864 /* VSModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VSModel.m; sourceTree = "<group>"; };
+		E10C32771C2B9910001B9864 /* DataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataManager.h; sourceTree = "<group>"; };
+		E10C32781C2B9910001B9864 /* DataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataManager.m; sourceTree = "<group>"; };
+		E10C327A1C2B9962001B9864 /* Music.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Music.plist; sourceTree = "<group>"; };
+		E10C327D1C2B9AB2001B9864 /* What Do You Mean.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "What Do You Mean.jpg"; sourceTree = "<group>"; };
+		E10C327E1C2B9AB2001B9864 /* Cheerleader.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cheerleader.jpg; sourceTree = "<group>"; };
+		E10C327F1C2B9AB2001B9864 /* Morning Commute.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Morning Commute.jpg"; sourceTree = "<group>"; };
+		E10C32801C2B9AB2001B9864 /* Songs for Friendship.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Songs for Friendship.jpg"; sourceTree = "<group>"; };
+		E10C32811C2B9AB2001B9864 /* Fight Songs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Fight Songs.jpg"; sourceTree = "<group>"; };
+		E10C32821C2B9AB2001B9864 /* images-25.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-25.jpeg"; sourceTree = "<group>"; };
+		E1C06D8A1C30D55200542067 /* Music.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Music.h; sourceTree = "<group>"; };
+		E1C06D8B1C30D55200542067 /* Music.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Music.m; sourceTree = "<group>"; };
+		E1C06D8D1C30D86200542067 /* Song.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Song.h; sourceTree = "<group>"; };
+		E1C06D8E1C30D86200542067 /* Song.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Song.m; sourceTree = "<group>"; };
+		E1C06D901C30E0E800542067 /* One Direction - History .mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "One Direction - History .mp3"; sourceTree = "<group>"; };
+		E1C06D911C30E0E800542067 /* One Direction - History (Lyrics)-3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "One Direction - History (Lyrics)-3.mp3"; sourceTree = "<group>"; };
+		E1C06D921C30E0E800542067 /* One Direction - History (Lyrics).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "One Direction - History (Lyrics).mp3"; sourceTree = "<group>"; };
+		E1C06D931C30E0E800542067 /* OneDirection1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = OneDirection1.jpeg; sourceTree = "<group>"; };
+		E1C06D941C30E0E800542067 /* OneDirection.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = OneDirection.jpeg; sourceTree = "<group>"; };
+		E1C06D951C30E0E800542067 /* OneDirection.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = OneDirection.jpg; sourceTree = "<group>"; };
+		E1C06D961C30E0E800542067 /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		E1C06D971C30E0E800542067 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		E1C06D981C30E0E800542067 /* 1448357305_ic_play_circle_fill_48px.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1448357305_ic_play_circle_fill_48px.png; sourceTree = "<group>"; };
+		E1C06D991C30E0E800542067 /* BichPhuong.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BichPhuong.jpg; sourceTree = "<group>"; };
+		E1C06D9A1C30E0E800542067 /* ThuMinh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ThuMinh.jpg; sourceTree = "<group>"; };
+		E1C06D9B1C30E0E800542067 /* timerun.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timerun.jpg; sourceTree = "<group>"; };
+		E1C06D9C1C30E0E800542067 /* thumb-value-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumb-value-bg.png"; sourceTree = "<group>"; };
+		E1C06D9D1C30E0E800542067 /* bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg.jpg; sourceTree = "<group>"; };
+		E1C06D9E1C30E0E800542067 /* runtrack.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = runtrack.jpg; sourceTree = "<group>"; };
+		E1C06D9F1C30E0E800542067 /* mintrack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mintrack.png; sourceTree = "<group>"; };
+		E1C06DA01C30E0E800542067 /* maxtrack2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = maxtrack2.png; sourceTree = "<group>"; };
+		E1C06DA11C30E0E800542067 /* maxtrack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = maxtrack.png; sourceTree = "<group>"; };
+		E1C06DA21C30E0E800542067 /* thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumb.png; sourceTree = "<group>"; };
+		E1C06DA31C30E0E800542067 /* track.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = track.png; sourceTree = "<group>"; };
+		E1C06DA41C30E0E800542067 /* thumbSlider.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumbSlider.png; sourceTree = "<group>"; };
+		E1C06DA51C30E0E800542067 /* backGroundNiceLayer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backGroundNiceLayer.png; sourceTree = "<group>"; };
+		E1C06DA61C30E0E800542067 /* niceSliderMember2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = niceSliderMember2.png; sourceTree = "<group>"; };
+		E1C06DA71C30E0E800542067 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		E1C06DA81C30E0E800542067 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		E1C06DA91C30E0E800542067 /* UIColor+Extend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Extend.h"; sourceTree = "<group>"; };
+		E1C06DAA1C30E0E800542067 /* UIColor+Extend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Extend.m"; sourceTree = "<group>"; };
+		E1C06DC41C30E1F600542067 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		E1C06DC71C30E47700542067 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		E1F722311C2E33A200045065 /* Album.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Album.h; sourceTree = "<group>"; };
+		E1F722321C2E33A200045065 /* Album.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Album.m; sourceTree = "<group>"; };
+		E1FAD9701C3CC0C800312D05 /* DNCE - Cake By The Ocean (Lyric).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "DNCE - Cake By The Ocean (Lyric).mp3"; sourceTree = "<group>"; };
+		E1FAD9721C3CC18200312D05 /* YouTube - Fiona Fung- Proud of you (With lyrics).flv.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "YouTube - Fiona Fung- Proud of you (With lyrics).flv.mp3"; sourceTree = "<group>"; };
+		E1FAD9741C3CC24A00312D05 /* Justin Bieber - What Do You Mean? (Lyric Video).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Justin Bieber - What Do You Mean? (Lyric Video).mp3"; sourceTree = "<group>"; };
+		E1FAD9761C3CC38500312D05 /* One Direction - Drag Me Down (pictures + Lyrics).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "One Direction - Drag Me Down (pictures + Lyrics).mp3"; sourceTree = "<group>"; };
+		E1FAD9771C3CC38500312D05 /* OMI - Cheerleader LYRICS (Felix Jaehn Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "OMI - Cheerleader LYRICS (Felix Jaehn Edit).mp3"; sourceTree = "<group>"; };
+		E1FB0A7E1C33794F0015C07D /* MusicAddTableView.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = MusicAddTableView.plist; sourceTree = "<group>"; };
+		E1FB0A801C337E220015C07D /* TopicData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TopicData.h; sourceTree = "<group>"; };
+		E1FB0A811C337E220015C07D /* TopicData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TopicData.m; sourceTree = "<group>"; };
+		E1FB0A831C337E390015C07D /* Topic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Topic.h; sourceTree = "<group>"; };
+		E1FB0A841C337E390015C07D /* Topic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Topic.m; sourceTree = "<group>"; };
+		E1FB0A861C337E4F0015C07D /* Songs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Songs.h; sourceTree = "<group>"; };
+		E1FB0A871C337E4F0015C07D /* Songs.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Songs.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +150,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1C06DC51C30E1F600542067 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +167,7 @@
 		E10C32411C2B9868001B9864 = {
 			isa = PBXGroup;
 			children = (
+				E1C06DC41C30E1F600542067 /* AVFoundation.framework */,
 				E10C324C1C2B9868001B9864 /* ModelViewController4 */,
 				E10C32661C2B9869001B9864 /* ModelViewController4Tests */,
 				E10C324B1C2B9868001B9864 /* Products */,
@@ -83,9 +188,10 @@
 			children = (
 				E10C32511C2B9868001B9864 /* AppDelegate.h */,
 				E10C32521C2B9868001B9864 /* AppDelegate.m */,
-				E10C32541C2B9868001B9864 /* ViewController.h */,
-				E10C32551C2B9868001B9864 /* ViewController.m */,
-				E10C32571C2B9868001B9864 /* Main.storyboard */,
+				E1F722301C2E2F6100045065 /* ViewControllers */,
+				E10C32731C2B98BC001B9864 /* Model */,
+				E1C06DC61C30E3F600542067 /* Song */,
+				E10C327C1C2B9A8F001B9864 /* Photo */,
 				E10C325A1C2B9868001B9864 /* Images.xcassets */,
 				E10C325C1C2B9868001B9864 /* LaunchScreen.xib */,
 				E10C324D1C2B9868001B9864 /* Supporting Files */,
@@ -117,6 +223,92 @@
 				E10C32681C2B9869001B9864 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E10C32731C2B98BC001B9864 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E10C32741C2B98D3001B9864 /* VSModel.h */,
+				E10C32751C2B98D3001B9864 /* VSModel.m */,
+				E10C32771C2B9910001B9864 /* DataManager.h */,
+				E10C32781C2B9910001B9864 /* DataManager.m */,
+				E10C327A1C2B9962001B9864 /* Music.plist */,
+				E1FB0A7E1C33794F0015C07D /* MusicAddTableView.plist */,
+				E1FB0A801C337E220015C07D /* TopicData.h */,
+				E1FB0A811C337E220015C07D /* TopicData.m */,
+				E1FB0A831C337E390015C07D /* Topic.h */,
+				E1FB0A841C337E390015C07D /* Topic.m */,
+				E1FB0A861C337E4F0015C07D /* Songs.h */,
+				E1FB0A871C337E4F0015C07D /* Songs.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		E10C327C1C2B9A8F001B9864 /* Photo */ = {
+			isa = PBXGroup;
+			children = (
+				E1C06DC71C30E47700542067 /* back.png */,
+				E1C06D931C30E0E800542067 /* OneDirection1.jpeg */,
+				E1C06D941C30E0E800542067 /* OneDirection.jpeg */,
+				E1C06D951C30E0E800542067 /* OneDirection.jpg */,
+				E1C06D961C30E0E800542067 /* pause.png */,
+				E1C06D971C30E0E800542067 /* play.png */,
+				E1C06D981C30E0E800542067 /* 1448357305_ic_play_circle_fill_48px.png */,
+				E1C06D991C30E0E800542067 /* BichPhuong.jpg */,
+				E1C06D9A1C30E0E800542067 /* ThuMinh.jpg */,
+				E1C06D9B1C30E0E800542067 /* timerun.jpg */,
+				E1C06D9C1C30E0E800542067 /* thumb-value-bg.png */,
+				E1C06D9D1C30E0E800542067 /* bg.jpg */,
+				E1C06D9E1C30E0E800542067 /* runtrack.jpg */,
+				E1C06D9F1C30E0E800542067 /* mintrack.png */,
+				E1C06DA01C30E0E800542067 /* maxtrack2.png */,
+				E1C06DA11C30E0E800542067 /* maxtrack.png */,
+				E1C06DA21C30E0E800542067 /* thumb.png */,
+				E1C06DA31C30E0E800542067 /* track.png */,
+				E1C06DA41C30E0E800542067 /* thumbSlider.png */,
+				E1C06DA51C30E0E800542067 /* backGroundNiceLayer.png */,
+				E1C06DA61C30E0E800542067 /* niceSliderMember2.png */,
+				E10C327D1C2B9AB2001B9864 /* What Do You Mean.jpg */,
+				E10C327E1C2B9AB2001B9864 /* Cheerleader.jpg */,
+				E10C327F1C2B9AB2001B9864 /* Morning Commute.jpg */,
+				E10C32801C2B9AB2001B9864 /* Songs for Friendship.jpg */,
+				E10C32811C2B9AB2001B9864 /* Fight Songs.jpg */,
+				E10C32821C2B9AB2001B9864 /* images-25.jpeg */,
+			);
+			name = Photo;
+			sourceTree = "<group>";
+		};
+		E1C06DC61C30E3F600542067 /* Song */ = {
+			isa = PBXGroup;
+			children = (
+				E1FAD9761C3CC38500312D05 /* One Direction - Drag Me Down (pictures + Lyrics).mp3 */,
+				E1FAD9771C3CC38500312D05 /* OMI - Cheerleader LYRICS (Felix Jaehn Edit).mp3 */,
+				E1FAD9741C3CC24A00312D05 /* Justin Bieber - What Do You Mean? (Lyric Video).mp3 */,
+				E1FAD9721C3CC18200312D05 /* YouTube - Fiona Fung- Proud of you (With lyrics).flv.mp3 */,
+				E1FAD9701C3CC0C800312D05 /* DNCE - Cake By The Ocean (Lyric).mp3 */,
+				E1C06D901C30E0E800542067 /* One Direction - History .mp3 */,
+				E1C06D911C30E0E800542067 /* One Direction - History (Lyrics)-3.mp3 */,
+				E1C06D921C30E0E800542067 /* One Direction - History (Lyrics).mp3 */,
+			);
+			name = Song;
+			sourceTree = "<group>";
+		};
+		E1F722301C2E2F6100045065 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				E1C06DA81C30E0E800542067 /* ViewController.h */,
+				E1C06DA71C30E0E800542067 /* ViewController.m */,
+				E1C06DA91C30E0E800542067 /* UIColor+Extend.h */,
+				E1C06DAA1C30E0E800542067 /* UIColor+Extend.m */,
+				E1F722311C2E33A200045065 /* Album.h */,
+				E1F722321C2E33A200045065 /* Album.m */,
+				E1C06D8A1C30D55200542067 /* Music.h */,
+				E1C06D8B1C30D55200542067 /* Music.m */,
+				E1C06D8D1C30D86200542067 /* Song.h */,
+				E1C06D8E1C30D86200542067 /* Song.m */,
+				E10C32571C2B9868001B9864 /* Main.storyboard */,
+			);
+			name = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +391,46 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1C06DBB1C30E0E800542067 /* maxtrack2.png in Resources */,
+				E1C06DBD1C30E0E800542067 /* thumb.png in Resources */,
+				E1C06DBA1C30E0E800542067 /* mintrack.png in Resources */,
+				E1C06DB31C30E0E800542067 /* 1448357305_ic_play_circle_fill_48px.png in Resources */,
+				E1C06DAE1C30E0E800542067 /* OneDirection1.jpeg in Resources */,
 				E10C32591C2B9868001B9864 /* Main.storyboard in Resources */,
+				E1C06DC01C30E0E800542067 /* backGroundNiceLayer.png in Resources */,
+				E1FAD9751C3CC24A00312D05 /* Justin Bieber - What Do You Mean? (Lyric Video).mp3 in Resources */,
+				E1C06DB01C30E0E800542067 /* OneDirection.jpg in Resources */,
+				E10C32871C2B9AB2001B9864 /* Fight Songs.jpg in Resources */,
 				E10C325E1C2B9868001B9864 /* LaunchScreen.xib in Resources */,
+				E1C06DB51C30E0E800542067 /* ThuMinh.jpg in Resources */,
+				E10C32841C2B9AB2001B9864 /* Cheerleader.jpg in Resources */,
+				E10C32831C2B9AB2001B9864 /* What Do You Mean.jpg in Resources */,
+				E1C06DAD1C30E0E800542067 /* One Direction - History (Lyrics).mp3 in Resources */,
+				E1FAD9731C3CC18200312D05 /* YouTube - Fiona Fung- Proud of you (With lyrics).flv.mp3 in Resources */,
+				E10C32861C2B9AB2001B9864 /* Songs for Friendship.jpg in Resources */,
+				E1C06DAF1C30E0E800542067 /* OneDirection.jpeg in Resources */,
+				E10C32881C2B9AB2001B9864 /* images-25.jpeg in Resources */,
+				E1FB0A7F1C33794F0015C07D /* MusicAddTableView.plist in Resources */,
+				E1C06DB91C30E0E800542067 /* runtrack.jpg in Resources */,
+				E1C06DBE1C30E0E800542067 /* track.png in Resources */,
+				E1C06DB41C30E0E800542067 /* BichPhuong.jpg in Resources */,
+				E1C06DB21C30E0E800542067 /* play.png in Resources */,
+				E1FAD9781C3CC38500312D05 /* One Direction - Drag Me Down (pictures + Lyrics).mp3 in Resources */,
+				E10C32851C2B9AB2001B9864 /* Morning Commute.jpg in Resources */,
+				E1C06DC81C30E47700542067 /* back.png in Resources */,
+				E10C327B1C2B9962001B9864 /* Music.plist in Resources */,
+				E1C06DBF1C30E0E800542067 /* thumbSlider.png in Resources */,
+				E1C06DAC1C30E0E800542067 /* One Direction - History (Lyrics)-3.mp3 in Resources */,
+				E1C06DB61C30E0E800542067 /* timerun.jpg in Resources */,
+				E1C06DBC1C30E0E800542067 /* maxtrack.png in Resources */,
+				E1C06DB11C30E0E800542067 /* pause.png in Resources */,
+				E1C06DB71C30E0E800542067 /* thumb-value-bg.png in Resources */,
+				E1C06DC11C30E0E800542067 /* niceSliderMember2.png in Resources */,
+				E1C06DAB1C30E0E800542067 /* One Direction - History .mp3 in Resources */,
+				E1C06DB81C30E0E800542067 /* bg.jpg in Resources */,
 				E10C325B1C2B9868001B9864 /* Images.xcassets in Resources */,
+				E1FAD9791C3CC38500312D05 /* OMI - Cheerleader LYRICS (Felix Jaehn Edit).mp3 in Resources */,
+				E1FAD9711C3CC0C800312D05 /* DNCE - Cake By The Ocean (Lyric).mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,8 +448,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E10C32561C2B9868001B9864 /* ViewController.m in Sources */,
+				E1FB0A881C337E4F0015C07D /* Songs.m in Sources */,
+				E1FB0A851C337E390015C07D /* Topic.m in Sources */,
+				E1C06D8F1C30D86200542067 /* Song.m in Sources */,
+				E10C32791C2B9910001B9864 /* DataManager.m in Sources */,
+				E1C06DC21C30E0E800542067 /* ViewController.m in Sources */,
 				E10C32531C2B9868001B9864 /* AppDelegate.m in Sources */,
+				E1C06DC31C30E0E800542067 /* UIColor+Extend.m in Sources */,
+				E1FB0A821C337E220015C07D /* TopicData.m in Sources */,
+				E10C32761C2B98D3001B9864 /* VSModel.m in Sources */,
+				E1C06D8C1C30D55200542067 /* Music.m in Sources */,
+				E1F722331C2E33A200045065 /* Album.m in Sources */,
 				E10C32501C2B9868001B9864 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -416,6 +654,7 @@
 				E10C326F1C2B9869001B9864 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E10C32701C2B9869001B9864 /* Build configuration list for PBXNativeTarget "ModelViewController4Tests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +663,7 @@
 				E10C32721C2B9869001B9864 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

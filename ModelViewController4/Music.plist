@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>album_name</key>
+        <string>Morning Commute</string>
+        <key>singer</key>
+        <string>Various Artists</string>
+        <key>photo</key>
+        <string>Morning Commute</string>
+    </dict>
+    <dict>
+        <key>album_name</key>
+        <string>Songs for Friendship</string>
+        <key>singer</key>
+        <string>Various Artists</string>
+        <key>photo</key>
+        <string>Songs for Friendship</string>
+    </dict>
+    <dict>
+        <key>album_name</key>
+        <string>What Do You Mean (Single)</string>
+        <key>singer</key>
+        <string>Justin BieBer</string>
+        <key>photo</key>
+        <string>What Do You Mean</string>
+    </dict>
+    <dict>
+        <key>album_name</key>
+        <string>Cheerleader (Single)</string>
+        <key>singer</key>
+        <string>Omi</string>
+        <key>photo</key>
+        <string>Cheerleader</string>
+    </dict>
+    <dict>
+        <key>album_name</key>
+        <string>Fight Songs</string>
+        <key>singer</key>
+        <string>Various Artists</string>
+        <key>photo</key>
+        <string>Fight Songs</string>
+    </dict>
+</array>
+</plist>
+

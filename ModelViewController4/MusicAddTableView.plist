@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>topic</key>
+		<string>Hot Singer</string>
+		<key>songs</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>What Do You Mean (Single)</string>
+				<key>singer</key>
+				<string>Justin BieBer</string>
+				<key>photo</key>
+				<string>What Do You Mean</string>
+				<key>music</key>
+				<string>Justin Bieber - What Do You Mean? (Lyric Video)</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Cheerleader (Single)</string>
+				<key>singer</key>
+				<string>Omi</string>
+				<key>photo</key>
+				<string>Cheerleader</string>
+				<key>music</key>
+				<string>OMI - Cheerleader LYRICS (Felix Jaehn Edit)</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>topic</key>
+		<string>Playlists based on mood</string>
+		<key>songs</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Morning Commute</string>
+				<key>singer</key>
+				<string>Various Artists</string>
+				<key>photo</key>
+				<string>Morning Commute</string>
+				<key>music</key>
+				<string>DNCE - Cake By The Ocean (Lyric)</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Songs for Friendship</string>
+				<key>singer</key>
+				<string>Various Artists</string>
+				<key>photo</key>
+				<string>Songs for Friendship</string>
+				<key>music</key>
+				<string>YouTube - Fiona Fung- Proud of you (With lyrics).flv</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Fight Songs</string>
+				<key>singer</key>
+				<string>Various Artists</string>
+				<key>photo</key>
+				<string>Fight Songs</string>
+				<key>music</key>
+				<string>One Direction - Drag Me Down (pictures + Lyrics)</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
